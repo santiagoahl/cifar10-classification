@@ -37,6 +37,7 @@ This deep learning model predicts the class of object into an image. This predic
 	- **Padding**
 * We got a 85.2% of validation accuracy.
 * The learning curve shows a small amount of overfitt. The graph is the following
+
 ![screenshot](https://winter-anchovy-50e.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc20d9638-fcb5-41b5-b628-78e4737427d7%2Fimg.png?table=block&id=ebbfd430-1cc0-44af-b2f8-8b59887cf237&spaceId=12eea25e-0790-4a8f-aa1c-b60f93c02da2&width=740&userId=&cache=v2)
 
 ## How To Use
