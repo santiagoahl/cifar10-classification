@@ -62,7 +62,7 @@ $jupyter notebook
 
 ## Credits
 
-This model uses the following open source datasets packages:
+This model uses the following open source datasets and packages:
 
 - [Keras](https://keras.io/)
 - [Tensorflow](https://www.tensorflow.org/?hl=es-419)
